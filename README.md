@@ -1,6 +1,4 @@
 # 00inclass-Recap-MNiedermaier
-repetition of the material learned in the last school year.
-
 ### Project Description
 WH Letztes Jahr
 
